@@ -1,0 +1,40 @@
+h1 {   
+    text-align: center;
+    padding: 10px 0;
+    border-radius: 15px;
+    font-family: "Concert One", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 50px;
+    color: white;
+    background-color: rgb(247, 204, 161);
+    padding: auto;
+    margin: auto;
+    border: auto;
+}
+
+h2 {
+    color: blue;
+    text-align:left;
+    padding: 10px 0;
+    border-radius: 15px;
+    font-family: "Concert One", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 50px;
+}
+
+
+p {
+    color: rgb(0, 0, 0);
+    text-align:justify;
+    padding: 10px 0;
+    font-family: "Concert One", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 40px;
+}
+
+body {
+    background-color: rgb(254, 230, 199);
+}
